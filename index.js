@@ -1,5 +1,3 @@
-import foo from 'foo'
+import foo from './foo'
 
-export const x = __FOO__
-  ? undefined
-  : foo
+export const x = false && foo

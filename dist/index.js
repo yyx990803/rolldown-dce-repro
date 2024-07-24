@@ -33,7 +33,7 @@ var require_foo_index = __commonJSMin((exports, module) => {
 //#endregion
 //#region index.js
 var import_foo_index = __toESM(require_foo_index());
-const x = undefined;
+const x = false;
 
 //#endregion
 export { x };
