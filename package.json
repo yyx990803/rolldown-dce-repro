@@ -4,7 +4,8 @@
     "build": "rolldown -c"
   },
   "dependencies": {
-    "rolldown": "^0.12.2",
-    "foo": "link:./foo"
-  }
+    "foo": "link:./foo",
+    "rolldown": "^0.12.2"
+  },
+  "packageManager": "pnpm@9.5.0"
 }
