@@ -1,0 +1,10 @@
+{
+  "type": "module",
+  "scripts": {
+    "build": "rolldown -c"
+  },
+  "dependencies": {
+    "rolldown": "^0.12.2",
+    "foo": "link:./foo"
+  }
+}
